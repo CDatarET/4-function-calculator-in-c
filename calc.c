@@ -29,7 +29,7 @@ int main(){
             printf("%f \n", a * b);
             break;
         default:
-            printf("please enter valid operation");
+            printf("please enter valid operation\n");
         }
 
         printf("Do another operation? y/n:\n");
